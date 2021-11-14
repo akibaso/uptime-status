@@ -5,7 +5,7 @@ window.Config = {
   SiteName: "Akiba's Status",
 
   // 站点链接
-  SiteUrl: '/',
+  SiteUrl: 'https://status.2890.ltd/',
 
   // UptimeRobot Api 域名
   // 只需填写域名部分，默认为官网域名
