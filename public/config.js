@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'Akiba's Status',
+  SiteName: "Akiba's Status",
 
   // 站点链接
   SiteUrl: '/',
