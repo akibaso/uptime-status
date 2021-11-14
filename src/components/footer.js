@@ -11,7 +11,6 @@ const Footer = () => {
 <p><br/>Our Sponsors</p>
 <div><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3031963600874401"
      crossorigin="anonymous"></script>
-<!-- Status -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-3031963600874401"
