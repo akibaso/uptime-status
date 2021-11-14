@@ -18,7 +18,7 @@ window.Config = {
   ApiKeys: [
     'm784345383-76da07daefb1dd03b06f1fb9',
     'm789722373-6f4c7f7481bfc6a2bfe94e30',
-    'm784346520-8e99a7b1bbc32587e1060472',
+    'm784346520-bbc54abc458651f8692fe214',
     'm785509380-0499622d9e20641289aad82f',
   ],
 
