@@ -15,7 +15,7 @@ const App = () => {
     <>
       <Header />
       <div className="container">
-        <div id="uptime" style={{margin-top:'30px'}}>
+        <div id="uptime" style={{marginTop:'30px'}}>
           {ApiKeys.map(i => (
             <Uptime key={i} apikey={i} />
           ))}
