@@ -12,7 +12,7 @@ const Footer = () => {
 <div><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3031963600874401"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"
-     style="display:block"
+     style={{display:'block'}}
      data-ad-client="ca-pub-3031963600874401"
      data-ad-slot="8602360897"
      data-ad-format="auto"
